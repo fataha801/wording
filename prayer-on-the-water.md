@@ -1,5 +1,5 @@
 
-The prayer on the water follows:
+# The prayer on the water follows:
 `O God, the Eternal Father, ` <br />
 `we ask thee in the name of thy Son, Jesus Christ, ` <br />
 `to bless and sanctify this [water] to the souls of all those who drink of it, ` <br />
