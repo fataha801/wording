@@ -1,3 +1,5 @@
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
+
 # TEMPLE RECOMMEND QUESTIONS
 - [x] Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
 - [x] Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
@@ -26,3 +28,4 @@
   - [ ] to recieve the Aaronic Priesthood and be ordained to the office of Deacon, Teacher or Priest?
   - [ ] to receive the Melchezedic Priesthood and be ordained to the office of Elder?
   - [ ] to receive the Patriarchial Blessing?
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
