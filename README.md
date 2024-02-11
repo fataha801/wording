@@ -18,4 +18,4 @@
   + Sustaining
   + Releases 
   + Set apart for calling
-+ Personal Interview with God (Youth)
++ [Personal Interview with God (Youth)](https://github.com/fataha801/wording/blob/main/personal-interview.md)
