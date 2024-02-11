@@ -1,6 +1,6 @@
 # TEMPLE RECOMMEND QUESTIONS
-- [x] Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
-- [x] Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
+- [x] Do you have faith in and a testimony of <ins>God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost</ins>?
+- [x] Do you have a testimony of the <ins>Atonement of Jesus Christ and of His role as your Savior and Redeemer</ins>?
 - [x] Do you have a testimony of the Restoration of the gospel of Jesus Christ?
 - [x] Do you sustain the President of The Church of Jesus Christ of Latter-day Saints as the prophet, seer, and revelator and as the only person on the earth authorized to exercise all priesthood keys?
 - [x] Do you sustain the members of the First Presidency and the Quorum of the Twelve Apostles as prophets, seers, and revelators?
