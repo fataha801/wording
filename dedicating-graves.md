@@ -10,3 +10,5 @@ To dedicate a grave, he:
 - [x] Closes in the name of Jesus Christ.
 
 If the family prefers, a person (preferably a man who holds the Melchizedek Priesthood) may offer a graveside prayer rather than a dedicatory prayer.
+
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
