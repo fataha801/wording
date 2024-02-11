@@ -1,4 +1,4 @@
-# Newly Baptized - Recognize and Sustain
+# Newly Baptized - Recognize and Sustain in Sacrament Meeting (Ward Business)
 - [x] Bishopric invites individual who was recently baptized to stand and be recognized.
 
 Brothers & Sisters, 
