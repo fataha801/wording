@@ -1,5 +1,5 @@
 # The prayer on the bread follows:
-`O God, the Eternal Father,` <br>
+`O God, the Eternal Father,`
 `we ask thee in the name of thy Son, Jesus Christ,` <br>
 `to bless and sanctify this bread` <br>
 `to the souls of all those who partake of it,` <br>
