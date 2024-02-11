@@ -11,8 +11,8 @@
 2.  Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
 3.  Do you have a testimony of the Restoration of the gospel of Jesus Christ?
 4.  Do you sustain the President of The Church of Jesus Christ of Latter-day Saints as the prophet, seer, and revelator and as the only person on the earth authorized to exercise all priesthood keys?
-    4. Do you sustain the members of the First Presidency and the Quorum of the Twelve Apostles as prophets, seers, and revelators?
-    4. Do you sustain the other General Authorities and local leaders of the Church?
+    + Do you sustain the members of the First Presidency and the Quorum of the Twelve Apostles as prophets, seers, and revelators?
+    + Do you sustain the other General Authorities and local leaders of the Church?
 
 + The Lord has said that all things are to be “done in cleanliness” before Him (Doctrine and Covenants 42:41).
 
