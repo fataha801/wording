@@ -9,4 +9,4 @@
 `and always remember him and keep his commandments which he has given them;` <br>
 `that they may always have his Spirit to be with them. Amen`<br>
 <br>
-`[D&C 20:77 & Moroni 4]`
+`[ D&C 20:77 & Moroni 4 ]`
