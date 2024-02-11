@@ -21,4 +21,8 @@
   - [x] If yes, are you current in meeting those obligations? 
 - [x] Do you keep the covenants that you made in the temple, including wearing the temple garment as instructed in the endowment?
 - [x] Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
-- [x] Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
+- [x] Do you consider yourself worthy
+  - [ ] to enter the Lord’s house and participate in temple ordinances?
+  - [ ] to recieve the Aaronic Priesthood and be ordained to the office of Deacon, Teacher or Priest?
+  - [ ] to receive the Melchezedic Priesthood and be ordained to the office of Elder?
+  - [ ] to receive the Patriarchial Blessing?
