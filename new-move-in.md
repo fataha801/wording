@@ -1,5 +1,4 @@
-[return to main](https://github.com/fataha801/wording/blob/main/README.md)
-
+# New Move-In (Membership Records Sustaining)
 We have received the membership records for the following members who have moved into our ward. As we read your name, please stand and remain standing until all names have been read.
 
 + READ OUR FAMILY NAMES
