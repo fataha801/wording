@@ -1,10 +1,18 @@
 # TEMPLE RECOMMEND QUESTIONS
-+ Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
-+ Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
-+ Do you have a testimony of the Restoration of the gospel of Jesus Christ?
-+ Do you sustain the President of The Church of Jesus Christ of Latter-day Saints as the prophet, seer, and revelator and as the only person on the earth authorized to exercise all priesthood keys?
-  + Do you sustain the members of the First Presidency and the Quorum of the Twelve Apostles as prophets, seers, and revelators?
-  + Do you sustain the other General Authorities and local leaders of the Church?
+1. First level
+    1. Second level
+        - Third level
+            - Fourth level
+2. First level
+    1. Second level
+3. First level
+    1. Second level
+1. Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
+2.  Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
+3.  Do you have a testimony of the Restoration of the gospel of Jesus Christ?
+4.  Do you sustain the President of The Church of Jesus Christ of Latter-day Saints as the prophet, seer, and revelator and as the only person on the earth authorized to exercise all priesthood keys?
+    4. Do you sustain the members of the First Presidency and the Quorum of the Twelve Apostles as prophets, seers, and revelators?
+    4. Do you sustain the other General Authorities and local leaders of the Church?
 
 + The Lord has said that all things are to be “done in cleanliness” before Him (Doctrine and Covenants 42:41).
 
