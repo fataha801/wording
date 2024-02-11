@@ -4,3 +4,5 @@ Normally, two or more men who hold the Melchizedek Priesthood place their hands 
 - [ ] States that he is sealing the anointing by the authority of the Melchizedek Priesthood
 - [ ] Gives a blessing as the Spirit directs
 - [ ] Closes in the name of Jesus Christ
+
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
