@@ -28,4 +28,5 @@
   - [ ] to recieve the Aaronic Priesthood and be ordained to the office of Deacon, Teacher or Priest?
   - [ ] to receive the Melchezedic Priesthood and be ordained to the office of Elder?
   - [ ] to receive the Patriarchial Blessing?
+     
 [return to main](https://github.com/fataha801/wording/blob/main/README.md)
