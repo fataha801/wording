@@ -7,8 +7,8 @@
   + [Anointing with Oil](https://github.com/fataha801/wording/blob/main/anointing-with-oil.md)
   + [Seal the Anointing](https://github.com/fataha801/wording/blob/main/seal-the-anointing.md)
 + Sacrament
-  + Prayer for Bread
-  + Prayer for Water
+  + Prayer on the Bread
+  + Prayer on the Water
 + Baptism Prayer
 + Confirmation after Baptism
 + Baby Blessing
