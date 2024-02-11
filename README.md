@@ -1,7 +1,7 @@
 # Words for Important Meetings
 + [Temple Recommend Questions](https://github.com/fataha801/wording/blob/main/temple-recommend.md)
 + [New Move-In](https://github.com/fataha801/wording/blob/main/new-move-in.md)
-+ [Confirmation of Newly Baptized Members](https://github.com/fataha801/wording/blob/main/newly-baptized.md)
++ [Sustaining of Newly Baptized Members](https://github.com/fataha801/wording/blob/main/newly-baptized.md)
 + [Dedicating Graves](https://github.com/fataha801/wording/blob/main/dedicating-graves.md)
 + Priesthood Blessings
   + Anointing with Oil
