@@ -7,3 +7,5 @@ Only men who hold the Melchizedek Priesthood may administer to the sick or affli
   - [ ] States that he is anointing the person by the authority of the Melchizedek Priesthood.
   - [ ] States that he is anointing with oil that has been consecrated for anointing and blessing the sick and afflicted.
   - [ ] Closes in the name of Jesus Christ.
+
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
