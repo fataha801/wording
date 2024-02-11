@@ -10,3 +10,5 @@
 `that they may have his Spirit to be with them. Amen ` <br />
  <br />
 `( D&C 20:79 & Moroni 5 )`
+
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
