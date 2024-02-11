@@ -1,6 +1,6 @@
 [return to main](https://github.com/fataha801/wording/blob/main/README.md)
 
-# TEMPLE RECOMMEND QUESTIONS
+# Temple Recommend Questions (Youth and Endowed)
 - [x] Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
 - [x] Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
 - [x] Do you have a testimony of the Restoration of the gospel of Jesus Christ?
