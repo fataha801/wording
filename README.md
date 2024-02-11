@@ -1,5 +1,5 @@
 # Words for Important Meetings
-+ Temple Recommend Questions [(temple-recommend.md)](https://github.com/fataha801/wording/blob/main/temple-recommend.md)
++ [(Temple Recommend Questions)](https://github.com/fataha801/wording/blob/main/temple-recommend.md)
 + New Move-In
 + Confirmation of Newly Baptized Members
 + Dedicating Graves
