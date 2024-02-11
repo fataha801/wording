@@ -1,4 +1,4 @@
-# Church Ordinances
+# Words for Important Meetings
 + Temple Recommend Questions
 + New Move-In
 + Confirmation of Newly Baptized Members
