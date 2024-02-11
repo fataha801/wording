@@ -1,5 +1,5 @@
 # Words for Important Meetings
-+ Temple Recommend Questions
++ Temple Recommend Questions [(temple-recommend.md)]
 + New Move-In
 + Confirmation of Newly Baptized Members
 + Dedicating Graves
