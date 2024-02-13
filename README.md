@@ -10,6 +10,10 @@
 + [Sustaining of Newly Baptized Members](https://github.com/fataha801/wording/blob/main/newly-baptized.md)
 + [Baby Blessing](https://github.com/fataha801/wording/blob/main/baby-blessing.md)
 
++ Sacrament
+  + [Prayer on the Bread](https://github.com/fataha801/wording/blob/main/prayer-on-the-bread.md)
+  + [Prayer on the Water](https://github.com/fataha801/wording/blob/main/prayer-on-the-water.md)
+
 + [Dedicating Graves](https://github.com/fataha801/wording/blob/main/dedicating-graves.md)
 
 + Priesthood Blessings
@@ -19,6 +23,7 @@
 + Sacrament
   + [Prayer on the Bread](https://github.com/fataha801/wording/blob/main/prayer-on-the-bread.md)
   + [Prayer on the Water](https://github.com/fataha801/wording/blob/main/prayer-on-the-water.md)
+
 + Baptismal Prayer
 + Confirmation after Baptism
 
