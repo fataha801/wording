@@ -14,3 +14,6 @@ The person who gives the blessing:
 - [x] Gives words of blessing as the Spirit directs.
 
 - [x] Closes in the name of Jesus Christ.
+
+
+[return to main](https://github.com/fataha801/wording/blob/main/README.md)
