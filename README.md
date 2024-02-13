@@ -11,7 +11,7 @@
   + [Prayer on the Water](https://github.com/fataha801/wording/blob/main/prayer-on-the-water.md)
 + Baptismal Prayer
 + Confirmation after Baptism
-+ [Baby Blessing](
++ [Baby Blessing](https://github.com/fataha801/wording/blob/main/baby-blessing.md)
 + Ordination
 + Calling
   + Extending
