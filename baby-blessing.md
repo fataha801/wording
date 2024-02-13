@@ -5,12 +5,12 @@ When blessing a baby, Melchizedek Priesthood holders gather in a circle and plac
 
 The person who gives the blessing:
 
-[x] Addresses Heavenly Father.
+- [x] Addresses Heavenly Father.
 
-[x] States that the blessing is performed by the authority of the Melchizedek Priesthood.
+- [x] States that the blessing is performed by the authority of the Melchizedek Priesthood.
 
-[x] Gives the child a name.
+- [x] Gives the child a name.
 
-[x] Gives words of blessing as the Spirit directs.
+- [x] Gives words of blessing as the Spirit directs.
 
-[x] Closes in the name of Jesus Christ.
+- [x] Closes in the name of Jesus Christ.
